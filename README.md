@@ -29,7 +29,3 @@
 
 🔹 **Project Management System (Backend)**
 A backend API for managing projects and tasks with authentication.
-
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: add-your-link
