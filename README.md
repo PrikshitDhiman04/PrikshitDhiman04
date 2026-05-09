@@ -39,11 +39,9 @@ A scalable backend API for managing projects, tasks, and subtasks with authentic
 
 ### Features:
 - 🔐 JWT Authentication & Authorization
-- 📁 File Uploads using Multer
 - 📌 Task & Subtask Management
 - 👥 Project Collaboration System
 - ⚡ MongoDB Aggregation Pipelines
-- 🧩 MVC Architecture
 - 🛡 Custom Error & Response Handling
 
 ---
