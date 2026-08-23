@@ -23,6 +23,28 @@
 
 ---
 
+---
+
+## 🤖 AI Tools & Proficiency
+
+Experienced in using AI tools for software development, research, productivity, problem-solving, and content creation.
+
+[![AI Tools](https://img.shields.io/badge/ChatGPT-Expert-412991?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![AI Tools](https://img.shields.io/badge/Google%20Gemini-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+[![AI Tools](https://img.shields.io/badge/Claude-Advanced-D97757?style=for-the-badge)](https://claude.ai/)
+[![AI Tools](https://img.shields.io/badge/NotebookLM-Advanced-34A853?style=for-the-badge&logo=google&logoColor=white)](https://notebooklm.google/)
+[![AI Tools](https://img.shields.io/badge/Julius%20AI-Intermediate-000000?style=for-the-badge)](https://julius.ai/)
+[![AI Tools](https://img.shields.io/badge/Higgsfield-Intermediate-000000?style=for-the-badge)](https://higgsfield.ai/)
+
+### AI Skills
+
+- 🤖 AI-assisted software development & debugging
+- 💡 Problem solving and technical research
+- 📝 Documentation and technical content generation
+- 📊 Data analysis and visualization
+- 🔍 Research, summarization, and knowledge extraction
+- 🎨 AI-assisted creative content generation
+
 ## 📌 Featured Projects
 
 ### 🔹 Project Management System (MERN)
