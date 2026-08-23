@@ -21,20 +21,19 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/>
 
----
 
 ---
 
-## 🤖 AI Tools & Proficiency
+## 🤖 AI Tools
 
-Experienced in using AI tools for software development, research, productivity, problem-solving, and content creation.
+[![AI Tools](https://skillicons.dev/icons?i=openai,gemini)](https://skillicons.dev)
 
-[![AI Tools](https://img.shields.io/badge/ChatGPT-Expert-412991?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
-[![AI Tools](https://img.shields.io/badge/Google%20Gemini-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
-[![AI Tools](https://img.shields.io/badge/Claude-Advanced-D97757?style=for-the-badge)](https://claude.ai/)
-[![AI Tools](https://img.shields.io/badge/NotebookLM-Advanced-34A853?style=for-the-badge&logo=google&logoColor=white)](https://notebooklm.google/)
-[![AI Tools](https://img.shields.io/badge/Julius%20AI-Intermediate-000000?style=for-the-badge)](https://julius.ai/)
-[![AI Tools](https://img.shields.io/badge/Higgsfield-Intermediate-000000?style=for-the-badge)](https://higgsfield.ai/)
+- ChatGPT
+- Gemini
+- NotebookLM
+- Claude
+- Julius AI
+- Higgsfield
 
 ### AI Skills
 
