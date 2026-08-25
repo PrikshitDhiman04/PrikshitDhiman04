@@ -23,7 +23,8 @@
 
 ### 🗄️ Database & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,git,github,vscode,postman)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,postman)](https://skillicons.dev)
 
 ---
 
