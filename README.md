@@ -19,7 +19,7 @@
 
 ### 💻 Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,cpp,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,cpp,html,css,tailwind,typescript)](https://skillicons.dev)
 
 ### 🗄️ Database & Tools
 
